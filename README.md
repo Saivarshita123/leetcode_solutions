@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0041-first-missing-positive) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0041-first-missing-positive) |
 ## String
 |  |
 | ------- |

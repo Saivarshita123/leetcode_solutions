@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0050-powx-n) |
 ## Depth-First Search
 |  |
 | ------- |

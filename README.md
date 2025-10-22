@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Two Pointers
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## String Matching
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Sliding Window
 |  |

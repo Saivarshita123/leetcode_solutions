@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0050-powx-n) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0043-multiply-strings) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -132,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->

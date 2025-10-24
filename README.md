@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Two Pointers
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

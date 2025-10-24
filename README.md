@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0050-powx-n) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0052-n-queens-ii) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Sorting
 |  |
 | ------- |
@@ -146,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Counting
+|  |
+| ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->

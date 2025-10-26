@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0057-insert-interval) |
 | [2169-simple-bank-system](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2169-simple-bank-system) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Two Pointers

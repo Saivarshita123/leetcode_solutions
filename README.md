@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0060-permutation-sequence) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0060-permutation-sequence) |
 ## Depth-First Search
 |  |
 | ------- |

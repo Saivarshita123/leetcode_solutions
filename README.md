@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0061-rotate-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

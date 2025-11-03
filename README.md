@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0071-simplify-path) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0071-simplify-path) |
 ## Binary Search
 |  |
 | ------- |

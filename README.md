@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0079-word-search) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2169-simple-bank-system](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0079-word-search) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0079-word-search) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0079-word-search) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Monotonic Stack
 |  |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0079-word-search) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Breadth-First Search
 |  |

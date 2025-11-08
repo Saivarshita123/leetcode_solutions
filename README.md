@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0078-subsets) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0072-edit-distance) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Stack
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

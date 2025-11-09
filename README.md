@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Memoization
 |  |

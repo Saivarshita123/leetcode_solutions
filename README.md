@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0079-word-search) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2625-increment-submatrices-by-one](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Combinatorics

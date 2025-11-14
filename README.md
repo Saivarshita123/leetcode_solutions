@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2169-simple-bank-system](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Dynamic Programming
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |

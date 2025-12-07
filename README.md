@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2288-count-operations-to-obtain-zero) |

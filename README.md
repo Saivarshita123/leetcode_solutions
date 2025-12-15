@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1590-make-sum-divisible-by-p](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2169-simple-bank-system](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0091-decode-ways) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Stack
 |  |

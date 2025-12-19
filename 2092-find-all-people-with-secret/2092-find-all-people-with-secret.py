@@ -1,5 +1,5 @@
 class Solution:
-    def findAllPeople(self, n: int, meetings: list[list[int]], firstPerson: int) -> list[int]:
+    def findAllPeople(self, n, meetings, firstPerson):
         parent = list(range(n))
         rank = [0] * n
 
@@ -29,28 +29,21 @@ class Solution:
         i = 0
         while i < len(meetings):
             time = meetings[i][2]
-            temp = []
+            involved = []
 
-            # Process all meetings at the same time
+            # Union all meetings at the same time
             while i < len(meetings) and meetings[i][2] == time:
                 x, y, _ = meetings[i]
                 union(x, y)
-                temp.append((x, y))
+                involved.append(x)
+                involved.append(y)
                 i += 1
 
-            # Check which components are connected to person 0
+            # Keep only components connected to person 0
             root0 = find(0)
-            connected = set()
-            for x, y in temp:
-                if find(x) == root0 or find(y) == root0:
-                    connected.add(find(x))
-                    connected.add(find(y))
-
-            # Rollback unions for people not connected to secret
-            for x, y in temp:
-                if find(x) not in connected:
-                    parent[x] = x
-                    parent[y] = y
+            for person in involved:
+                if find(person) != root0:
+                    parent[person] = person
 
         # Collect all people who know the secret
         root0 = find(0)

@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
 ## Enumeration
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [2092-find-all-people-with-secret](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
 | [3606-coupon-code-validator](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3606-coupon-code-validator) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Sliding Window
@@ -384,4 +387,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->

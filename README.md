@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0093-restore-ip-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2211-count-collisions-on-a-road) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0055-jump-game) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Recursion

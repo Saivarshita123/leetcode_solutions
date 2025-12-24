@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |

@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Recursion
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [2054-two-best-non-overlapping-events](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3606-coupon-code-validator) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Sliding Window

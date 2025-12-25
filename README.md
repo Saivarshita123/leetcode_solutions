@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0126-word-ladder-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2169-simple-bank-system](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0126-word-ladder-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0093-restore-ip-addresses) |
+| [0126-word-ladder-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0126-word-ladder-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0126-word-ladder-ii](https://github.com/Saivarshita123/leetcode_solutions/tree/master/0126-word-ladder-ii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Saivarshita123/leetcode_solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/Saivarshita123/leetcode_solutions/tree/master/2092-find-all-people-with-secret) |
 ## Enumeration
